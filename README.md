@@ -1,5 +1,6 @@
 # FAKE STORE
-a react redux application that connects to the fake store api and displays the data
+a react redux application that connects to the fake store api and disp![Screenshot 2021-10-02 at 20 23 03](https://user-images.githubusercontent.com/81357407/135730495-de1e0365-7d33-450e-90cd-3f8487947591.png)
+lays the data
 
 
 
